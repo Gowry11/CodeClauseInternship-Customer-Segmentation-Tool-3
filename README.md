@@ -42,7 +42,44 @@ A golden-level data science project for segmenting customers using clustering te
 
 ## How to Run This Project
 
-**Clone the Repository**:
+### 1. Clone the Repository**:
 ```bash
 git clone https://github.com/Gowry11/CodeClauseInternship-Customer-Segmentation-Tool-2-.git
+```
+### 2. Navigate to the Project Folder:
+```bash
+cd CodeClauseInternship-Customer-Segmentation-Tool
+```
+### 3. Install Required Libraries:
+```bash
+pip install -r requirements.txt
+```
+### 4. Run the Streamlit App:
+```bash
+streamlit run app.py
+```
+The app will open in your browser where you can upload data, choose features, and explore the clustering results.
 
+## Sample Data
+Included in the repository under:
+```bash
+data/sample_customers.csv
+```
+This file contains example customer data with fields like:  
+- CustomerID  
+- Age  
+- Annual Income  
+- Spending Score
+
+## Output Preview  
+- Upload customer CSV file  
+- Choose features to cluster  
+- Choose number of clusters (K)  
+- View table with cluster labels  
+- View scatter plot of customer segments
+
+## Demo Video
+🎥 [Include your LinkedIn video demo link here when ready]
+
+## Developed By  
+Gowry P P
