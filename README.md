@@ -2,8 +2,6 @@
 
 A golden-level data science project for segmenting customers using clustering techniques and an interactive user interface. Built with Streamlit and scikit-learn as part of the **CodeClause Data Science Internship**.
 
----
-
 ## What This Project Does
 
 - Creates a user-friendly interface for customer data input using **Streamlit**.
@@ -11,8 +9,6 @@ A golden-level data science project for segmenting customers using clustering te
 - Applies **K-Means Clustering** to segment customers into meaningful groups.
 - Allows users to select which features (e.g., Age, Income, Spending Score) to use for segmentation.
 - Visualizes cluster groups with **scatter plots** based on selected features.
-
----
 
 ## Technologies Used
 
@@ -22,8 +18,6 @@ A golden-level data science project for segmenting customers using clustering te
   - [Pandas](https://pandas.pydata.org/) – for data manipulation
   - [Scikit-learn](https://scikit-learn.org/) – for clustering with K-Means
   - [Matplotlib](https://matplotlib.org/) & [Seaborn](https://seaborn.pydata.org/) – for data visualization
-
----
 
 ## Project Structure
 
@@ -45,8 +39,6 @@ A golden-level data science project for segmenting customers using clustering te
 ### 5. View Results
 - View dataset with cluster labels
 - Visualize customer segments using scatter plots
-
----
 
 ## How to Run This Project
 
