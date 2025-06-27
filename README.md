@@ -79,7 +79,7 @@ This file contains example customer data with fields like:
 - View scatter plot of customer segments
 
 ## Demo Video
-🎥 [Include your LinkedIn video demo link here when ready]
+https://www.loom.com/share/e9525a7d6dc34010bbe7cafed8158872?sid=28157a0a-274b-4e05-a5ef-2083ec607fd7
 
 ## Developed By  
 Gowry P P
